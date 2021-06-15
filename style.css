@@ -26,6 +26,7 @@ header nav{
 header nav div, header nav a{
     /* background-color: #2b2d42; */
     width: 25vw;
+    display: block;
 
 }
 
